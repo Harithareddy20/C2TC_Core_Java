@@ -1,4 +1,4 @@
-package oops;
+package jan6_oops;
 abstract class GraphicObject
 {
 	int x, y;

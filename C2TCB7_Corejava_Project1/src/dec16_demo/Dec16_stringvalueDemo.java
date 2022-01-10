@@ -1,4 +1,4 @@
-package general;
+package dec16_demo;
 
 public class Dec16_stringvalueDemo {
 

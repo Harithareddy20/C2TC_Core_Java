@@ -1,4 +1,4 @@
-package oops;
+package jan5_oops;
 class Base
 {
 	static int i;

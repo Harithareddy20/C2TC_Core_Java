@@ -1,4 +1,4 @@
-package general;
+package dec28_operators;
 
 public class Dec28_assignmentoperator {
 

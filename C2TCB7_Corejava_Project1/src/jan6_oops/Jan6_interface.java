@@ -1,4 +1,4 @@
-package oops;
+package jan6_oops;
 interface i1
 {
 	void set(int x,int y);

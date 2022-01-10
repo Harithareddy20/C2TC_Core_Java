@@ -1,4 +1,4 @@
-package general;
+package dec16_demo;
 //Primitive Data Types_Integer
 public class Dec16_IntDataTypeDemo {
 

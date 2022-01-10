@@ -1,4 +1,4 @@
-package general;
+package dec23_demo;
 
 public class Dec23_hello_demo1 {
 

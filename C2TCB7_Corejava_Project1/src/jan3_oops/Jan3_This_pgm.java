@@ -1,4 +1,4 @@
-package oops;
+package jan3_oops;
 
 class animal
 {

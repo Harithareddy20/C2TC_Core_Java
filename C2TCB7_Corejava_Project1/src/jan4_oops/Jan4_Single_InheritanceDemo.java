@@ -1,4 +1,4 @@
-package oops;
+package jan4_oops;
 class Bicycle
 {
 	int gear;

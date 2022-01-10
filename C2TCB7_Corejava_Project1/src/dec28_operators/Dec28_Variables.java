@@ -1,6 +1,6 @@
-package general;
+package dec28_operators;
 
-public class Variables {
+public class Dec28_Variables {
 	int a = 1024;
 	int b = 0;
 
@@ -18,7 +18,7 @@ public class Variables {
 	}
 
 	public static void main(String[] args) {
-		Variables obj = new Variables();
+		Dec28_Variables obj = new Dec28_Variables();
 		obj.fun1();
 		obj.fun2();
 

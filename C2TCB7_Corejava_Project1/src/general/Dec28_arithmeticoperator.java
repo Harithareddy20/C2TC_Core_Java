@@ -1,6 +1,6 @@
 package general;
 
-public class arithmetic {
+public class Dec28_arithmeticoperator {
 
 	public static void main(String[] args) {
 		int x=10,y=20;

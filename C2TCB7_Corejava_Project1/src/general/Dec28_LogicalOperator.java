@@ -1,6 +1,6 @@
 package general;
 
-public class Logical_Operator {
+public class Dec28_LogicalOperator {
 
 	public static void main(String[] args) {
 		int x=12;int y=11;

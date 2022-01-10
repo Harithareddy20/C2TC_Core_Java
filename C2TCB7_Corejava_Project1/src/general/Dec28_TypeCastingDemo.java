@@ -1,6 +1,6 @@
 package general;
 
-public class TypeCastingDemo {
+public class Dec28_TypeCastingDemo {
 
 	public static void main(String[] args) {
 		// widening/implicit typecasting

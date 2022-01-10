@@ -30,7 +30,7 @@ class ICICI1 extends Bank1
 }
 
 
-public class MethodOverridingDemo {
+public class Jan5_MethodOverridingDemo {
 
 	public static void main(String[] args) {
 		SBI1 obj=new SBI1();

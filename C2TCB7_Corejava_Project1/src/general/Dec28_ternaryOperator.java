@@ -1,6 +1,6 @@
 package general;
 
-public class ternary {
+public class Dec28_ternaryOperator {
 
 	public static void main(String[] args) {
 		int x=10;

@@ -49,7 +49,7 @@ class MountainBike extends Bicycle
 }
 
 
-public class InheritanceDemo {
+public class Jan4_Single_InheritanceDemo {
 
 	public static void main(String[] args) {
 		 MountainBike bike= new MountainBike(5,160,10);
@@ -57,6 +57,7 @@ public class InheritanceDemo {
 		   bike.applyBreak(5);
 		   //bike.adjustHeight(4);
 		   System.out.println(bike.toString());
+		  
 
 	}
 

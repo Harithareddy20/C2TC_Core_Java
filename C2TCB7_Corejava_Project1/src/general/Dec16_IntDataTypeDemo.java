@@ -1,6 +1,6 @@
 package general;
 //Primitive Data Types_Integer
-public class IntDataTypeDemo {
+public class Dec16_IntDataTypeDemo {
 
 	public static void main(String[] args) {
     byte maxbyte=127;

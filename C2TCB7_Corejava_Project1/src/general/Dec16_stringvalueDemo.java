@@ -1,6 +1,6 @@
 package general;
 
-public class stringvalue {
+public class Dec16_stringvalueDemo {
 
 	public static void main(String[] args) {
 		String batcNname="C2TC-B7";

@@ -1,6 +1,6 @@
 package general;
 
-public class Variables_Demo1 {
+public class Dec28_VariablesDemo1 {
 		// class variable
 	    final static int a = 1024;
 		int b;
@@ -18,9 +18,9 @@ public class Variables_Demo1 {
 		}
 
 		public static void main(String[] args) {
-			Variables_Demo1 obj = new Variables_Demo1();
+			Dec28_VariablesDemo1 obj = new Dec28_VariablesDemo1();
 			System.out.println(obj.b);
-			System.out.println(Variables_Demo1.a);
+			System.out.println(Dec28_VariablesDemo1.a);
 
 
 	}

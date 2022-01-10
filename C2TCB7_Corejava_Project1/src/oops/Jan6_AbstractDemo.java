@@ -33,7 +33,7 @@ class ICICI extends Bank
 	}
 }
 
-public class AbstractDemo {
+public class Jan6_AbstractDemo {
 
 	public static void main(String[] args) {
 		SBI obj=new SBI();

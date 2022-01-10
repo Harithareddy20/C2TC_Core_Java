@@ -47,7 +47,7 @@ class Derived4 extends Derived1
 	}
 
 
-public class HierarchialInheritanceDemo {
+public class Jan5_HierarchialInheritanceDemo {
 
 	public static void main(String[] args) {
 		Derived1 obj=new Derived1();

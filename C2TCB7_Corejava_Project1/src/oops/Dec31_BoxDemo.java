@@ -9,7 +9,7 @@ package oops;
 	 }
  }
 
-public class BoxDemo {
+public class Dec31_BoxDemo {
 
 	public static void main(String[] args) {
 		Box box1;

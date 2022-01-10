@@ -1,21 +1,21 @@
 package assignment;
 
-public class StudentDetails {
+public class Jan3_StudentDetails {
 	int usn;
 	String name;
 	String email;
 	String branch;
 	
-	public StudentDetails() {
+	public Jan3_StudentDetails() {
 	}
-	public StudentDetails(int usn,String name,String email,String branch) {
+	public Jan3_StudentDetails(int usn,String name,String email,String branch) {
 		super();
 		this.name = name;
 		this.email = email;
 		this.branch =branch;
 		this.usn = usn;
 	}
-	public StudentDetails(int usn) {
+	public Jan3_StudentDetails(int usn) {
 		this.usn =usn;	
 	}
   public  String tostring() {
@@ -24,7 +24,7 @@ public class StudentDetails {
   }
 
 	public static void main(String[] args) {
-		StudentDetails s1=new StudentDetails();
+		Jan3_StudentDetails s1=new Jan3_StudentDetails();
 		s1.name="Haritha";
 		s1.email="harithareddy";
 		s1.branch="ECE";
@@ -32,7 +32,7 @@ public class StudentDetails {
 		System.out.println(s1.toString());
 		
 		
-		StudentDetails s2= new StudentDetails(120,"Haritha","harithareddy","ECE");
+		Jan3_StudentDetails s2= new Jan3_StudentDetails(120,"Haritha","harithareddy","ECE");
 		System.out.println(s2.tostring());
 
 	}

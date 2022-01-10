@@ -43,7 +43,7 @@ class Circle extends GraphicObject
 }
 
 
-public class Main {
+public class Jan6_Main {
 
 	public static void main(String[] args) {
 		//GraphicObject obj=new GraphicObject();

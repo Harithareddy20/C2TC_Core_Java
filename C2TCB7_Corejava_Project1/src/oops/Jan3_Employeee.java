@@ -1,19 +1,19 @@
 package oops;
 
-public class Employeee {
+public class Jan3_Employeee {
 	int id;
 	String name;
 	String email;
 	float salary;
-	public Employeee() {
+	public Jan3_Employeee() {
 	}
-	public Employeee(int id,String name,String email,Float Salary) {
+	public Jan3_Employeee(int id,String name,String email,Float Salary) {
 		this.id = id;
 		this.name = name;
 		this.email = email;
 		this.salary = salary;
 	}
-	public Employeee(int id) {
+	public Jan3_Employeee(int id) {
 		this.id =id;	
 	}
   public  String tostring() {
@@ -21,16 +21,16 @@ public class Employeee {
 	  return str;
   }
 	public static void main(String[] args) {
-		Employeee e1=new Employeee();
+		Jan3_Employeee e1=new Jan3_Employeee();
 		e1.id=101;
 		e1.name="Haritha";
 		e1.email="hgweuf";
 		e1.salary=30.6f;
 		
-		Employeee e2= new Employeee(102,"sahana","hgweuf",45.83f);
+		Jan3_Employeee e2= new Jan3_Employeee(102,"sahana","hgweuf",45.83f);
 		System.out.println(e2.tostring());
 		
-		Employeee e3 = new Employeee(103);
+		Jan3_Employeee e3 = new Jan3_Employeee(103);
 
 	}
 

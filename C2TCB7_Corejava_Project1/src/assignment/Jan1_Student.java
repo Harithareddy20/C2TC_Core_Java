@@ -20,7 +20,7 @@ class student5{
 	int rollno=49;
 }
 
-public class Student {
+public class Jan1_Student {
 
 	public static void main(String[] args) {
 	student1 s1=new student1();

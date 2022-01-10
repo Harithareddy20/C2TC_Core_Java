@@ -1,6 +1,6 @@
 package oops;
 
-	public class MethodOverloadingDemo {
+	public class Jan5_MethodOverloadingDemo {
 		
 		int add(int a, int b)
 		{
@@ -25,7 +25,7 @@ package oops;
 		}
 
 	public static void main(String[] args) {
-		MethodOverloadingDemo obj=new MethodOverloadingDemo();
+		Jan5_MethodOverloadingDemo obj=new Jan5_MethodOverloadingDemo();
 		System.out.println(obj.add(10, 20));
 		System.out.println(obj.add(3.45f, 5.67f));
 		System.out.println(obj.add(10, 20.22f,67));

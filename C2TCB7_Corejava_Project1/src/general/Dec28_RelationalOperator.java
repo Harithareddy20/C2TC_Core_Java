@@ -1,6 +1,6 @@
 package general;
 
-public class Relational_Operator {
+public class Dec28_RelationalOperator {
 
 	public static void main(String[] args) {
 		int x=10,y=7;

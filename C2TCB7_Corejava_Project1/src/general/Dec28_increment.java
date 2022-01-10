@@ -1,6 +1,6 @@
 package general;
 
-public class increment {
+public class Dec28_increment {
 
 	public static void main(String[] args) {
 		int a=10;

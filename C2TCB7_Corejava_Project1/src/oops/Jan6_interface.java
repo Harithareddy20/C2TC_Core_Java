@@ -33,7 +33,7 @@ int q=20;
 }
 
 
-public class Ex {
+public class Jan6_interface {
 
 	public static void main(String[] args) {
 		ImpClass obj=new ImpClass();

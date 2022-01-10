@@ -28,7 +28,7 @@ void display()
 	System.out.println(colour+""+"colour"+name+""+"with"+""+""+legs);
 }
 }
-public class This_pgm {
+public class Jan3_This_pgm {
 
 	public static void main(String[] args) {
 		animal obj1=new animal(4,"cat","white");

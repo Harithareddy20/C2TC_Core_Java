@@ -1,6 +1,6 @@
 package general;
 
-public class assignmentoperator {
+public class Dec28_assignmentoperator {
 
 	public static void main(String[] args) {
 		int x=4;

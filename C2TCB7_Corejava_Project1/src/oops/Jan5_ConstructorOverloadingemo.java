@@ -38,7 +38,7 @@ class Student1
 	
 }
 
-public class ConstructorOverloadingemo {
+public class Jan5_ConstructorOverloadingemo {
 
 	public static void main(String[] args) {
 		 Student1 obj=new Student1(101); 

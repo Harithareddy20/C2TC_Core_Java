@@ -1,6 +1,6 @@
 package oops;
 
-public class Switchcase {
+public class Jan3_Switchcase {
  
 		public static void main(String[] args) 
 		{

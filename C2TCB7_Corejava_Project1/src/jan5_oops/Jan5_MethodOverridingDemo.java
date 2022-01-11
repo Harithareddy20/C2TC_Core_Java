@@ -1,4 +1,4 @@
-package jan3_oops;
+package jan5_oops;
 class Bank1
 {
 	float getRateOfInterest()

@@ -1,6 +1,6 @@
 package jan11_exceptionHandling;
 
-public class WithException {
+public class WithException_EHdemo3 {
 
 	public static void main(String[] args) {
 		int[] arr=new int[4];

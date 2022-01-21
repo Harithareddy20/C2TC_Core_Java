@@ -1,7 +1,7 @@
 package jan12_ExceptionHandling;
 import java.util.Scanner;
 
-public class EH_throws {
+public class Student_id_class {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);	
@@ -16,17 +16,15 @@ public class EH_throws {
 		{
 			try
 			{
-				throw new StudentIdNotFoundException(id);
+				throw new StudentIdNotfoundException(id);
 			}
-			catch(StudentIdNotFoundException se)
+			catch(StudentIdNotfoundException se)
 			{
 				System.out.println(se);	
 				System.out.println(se.getMessage());
 			}
-		}
-
 	}
-
 	}
-
-
+}
+	
+		

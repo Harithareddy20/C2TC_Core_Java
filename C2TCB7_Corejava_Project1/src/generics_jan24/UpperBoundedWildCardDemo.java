@@ -1,4 +1,4 @@
-package generics;
+package generics_jan24;
 import java.util.ArrayList;
 public class UpperBoundedWildCardDemo {
 	public static Double add(ArrayList<? extends Number> al)

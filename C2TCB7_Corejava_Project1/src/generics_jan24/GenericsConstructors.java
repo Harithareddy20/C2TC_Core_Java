@@ -1,4 +1,4 @@
-package generics;
+package generics_jan24;
 
 public class GenericsConstructors {
 	private double v;

@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading_jan26;
 
 public class B implements Runnable {
 	String msg;

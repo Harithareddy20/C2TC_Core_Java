@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading_jan26;
 
 public class Ex extends Thread {
 int st;

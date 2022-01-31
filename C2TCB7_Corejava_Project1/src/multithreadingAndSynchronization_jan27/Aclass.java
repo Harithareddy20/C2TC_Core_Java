@@ -1,4 +1,4 @@
-package multithreadingAndSynchronization;
+package multithreadingAndSynchronization_jan27;
 
 public class Aclass {
 	int bal;

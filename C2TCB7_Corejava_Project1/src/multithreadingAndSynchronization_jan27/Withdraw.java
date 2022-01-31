@@ -1,4 +1,4 @@
-package multithreadingAndSynchronization;
+package multithreadingAndSynchronization_jan27;
 import java.util.Scanner;
 
 public class Withdraw  extends Thread{

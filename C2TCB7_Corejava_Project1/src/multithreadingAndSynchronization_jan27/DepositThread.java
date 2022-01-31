@@ -1,4 +1,4 @@
-package multithreadingAndSynchronization;
+package multithreadingAndSynchronization_jan27;
 
 public class DepositThread extends Thread {
 	AClass obj;
@@ -23,6 +23,11 @@ public class DepositThread extends Thread {
 		}
 		//System.out.println("First");
 		obj.deposit(amt);
+	}
+	
+
+}
+
 	}
 
 }
